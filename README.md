@@ -74,7 +74,7 @@ emojis were found instead of doing the above steps.
 
 For search, we'll want to print every single emoji that matches the search criteria.
 
-Test out your serach feature with something like `corn`, which should give you unicorn and popcorn emojis. Or try the letter y, which should give you 8 emojis.
+Test out your search feature with something like `corn`, which should give you unicorn and popcorn emojis. Or try the letter y, which should give you 8 emojis.
 
 #### Random
 
